@@ -70,14 +70,9 @@ flutter:
 - Dart  
 - JSON  
 
----
-
-## Print 
-https://scontent.cdninstagram.com/v/t1.15752-9/670823568_1252250000311227_1933924541445223460_n.png?_nc_cat=100&ccb=7-5&_nc_sid=fc17b8&efg=eyJxZV9ncm91cHMiOlsiaWdkX2Jlc3RfZWZmb3J0X2ltYWdlOnRlc3QiXX0%3D&_nc_ohc=v5nyW93QhtAQ7kNvwHnKPTz&_nc_oc=Adqam8U2KN9AiNnH3qlvC3h1Md2KqJ6NisvsiiBPwh7JdGJZrO4s6St31uV66YPnRjV7EQ195KkKdbGDWUWbzOQE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_ss=7a32e&oh=03_Q7cD5AEVYw1YzWErQL0SV0FH-Vg9EiCQkmC4GUs5duxcXXK3yg&oe=6A1034AC
 
 
 
 
-## Autor
 
-Livia Morais
+
