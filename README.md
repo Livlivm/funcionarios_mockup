@@ -70,7 +70,9 @@ flutter:
 - Dart  
 - JSON  
 
-
+---
+## print 
+Esta dentro da pasta assets
 
 
 
