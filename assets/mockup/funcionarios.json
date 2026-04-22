@@ -1,0 +1,26 @@
+[
+     {
+    "id": 2,
+    "nome": "Lívia Morais",
+    "cargo": "Obstetra",
+    "salario": 50000.0,
+    "dataContratacao": "2021-11-02",
+    "avatar": "https://imgproxy.attic.sh/insecure/f:webp/q:90/w:1920/plain/https://attic.sh/i01d6fk1cbkv1xog53yj5g8zn47n"
+  },
+  {
+    "id": 1,
+    "nome": "Eduarda Massaro",
+    "cargo": "Cirurgiã geral",
+    "salario": 50000.0,
+    "dataContratacao": "2022-03-15",
+    "avatar":  "https://imgproxy.attic.sh/insecure/f:webp/q:90/w:1920/plain/https://attic.sh/x35j06r4d26kg337039h6vqp4b21"
+  },
+  {
+    "id": 3,
+    "nome": "Laís Rocha",
+    "cargo": "Secretária",
+    "salario": 10000.0,
+    "dataContratacao": "2023-01-20",
+    "avatar": "https://imgproxy.attic.sh/insecure/f:webp/q:90/w:1920/plain/https://attic.sh/lgojaho8ho1vsydmnewyel63v2jk"
+  }
+]
